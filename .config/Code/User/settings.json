@@ -1,0 +1,28 @@
+{
+    "java.home":"/usr/lib/jvm/java-11-amazon-corretto",
+    "java.jdt.ls.vmargs": "-Xmx3G -XX:+UseG1GC -XX:+UseStringDeduplication",
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "'Inconsolata for Powerline', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 13,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "workbench.colorCustomizations": {
+			"editor.background": "#111213"
+    },
+    "workbench.tips.enabled": false,
+    "window.menuBarVisibility": "hidden",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "background.customImages": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Test.png"
+    ],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.external.linuxExec": "/home/svilim/.local/kitty.app/bin/kitty",
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.colorTheme": "An Old Hope Classic"
+}
