@@ -24,5 +24,8 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "terminal.external.linuxExec": "/home/svilim/.local/kitty.app/bin/kitty",
     "workbench.editor.tabCloseButton": "off",
-    "workbench.colorTheme": "An Old Hope Classic"
+    "workbench.colorTheme": "An Old Hope Classic",
+    "sync.gist": "0028e9788f6b9af4febcba0d96f8f41c",
+    "sync.autoUpload": true,
+    "sync.autoDownload": true
 }
