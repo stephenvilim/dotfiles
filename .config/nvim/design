@@ -1,0 +1,24 @@
+OPERATORS:
+replace
+yank
+delete
+substitute
+swap
+surround/apply
+
+TEXT OBJECTS:
+line
+char
+word
+block
+sentence
+paragraph
+quote
+tag
+AST Block
+
+MODIFIERS: remote, range, do action n times
+
+MOTIONS:
+nth
+end of
